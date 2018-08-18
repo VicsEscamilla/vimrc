@@ -9,3 +9,4 @@ let NERDTreeQuitOnOpen = 1
 let g:go_version_warning = 0
 let g:go_fmt_fail_silently = 1
 let g:go_fmt_autosave = 0
+set hlsearch

@@ -1,3 +1,8 @@
+if [ -f ~/.bashrc ]
+then
+    . ~/.bashrc
+fi
+
 # envars
 
 export GOROOT="$HOME/golang/go"
